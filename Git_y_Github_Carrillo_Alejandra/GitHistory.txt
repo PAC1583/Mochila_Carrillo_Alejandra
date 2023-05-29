@@ -1,0 +1,10 @@
+Preguntas de Git:
+a. Quien invento el sistema de control de version de Git y porque? Linus Trovalds.
+Creó Git porque en su momento habian otra empresa, BitKeeper que ofrecia un producto de control de version pero no era una fuenta abierta a todo el mundo y por
+ende no todas personas podian ni querian usarlo.Linus creo Git, el cual mantenia las mismas funciones de Bitkeeper, pero era gratis para proyectos abiertos, publicos. 
+Adicional a eso, funcionaba de forma remota, la integridad del codigo y de todo el flujo del proceso.
+
+b. A quien pertenece actualmente Github y por que? Microsoft. Se dice que Microsoft adquirio Github con fines estrategicos
+
+c. Otra forma de trabajar con GIthib que no sea la terminal: Se puede trabajar desde la pagina web
+
